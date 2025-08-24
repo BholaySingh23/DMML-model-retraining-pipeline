@@ -1,0 +1,11 @@
+apache-airflow
+datasets
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+prefect
+fastapi
+uvicorn
+requests
